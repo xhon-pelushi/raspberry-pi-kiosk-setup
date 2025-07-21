@@ -160,3 +160,7 @@ sudo reboot
 ```
 
 Your Raspberry Pi should now boot directly into Chromium in kiosk mode.
+
+---
+
+*Created and maintained by Xhon Pelushi. Contributions and suggestions are welcome!*
