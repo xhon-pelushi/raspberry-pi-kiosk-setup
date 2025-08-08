@@ -1,5 +1,5 @@
-
-# 🖥️ Raspberry Pi Kiosk Setup (2023+)
+e
+# 🖥️ Raspberry Pi Kiosk Setup (2023)
 
 This guide will walk you through configuring a Raspberry Pi to launch directly into Chromium in kiosk mode.
 
